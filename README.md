@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @BonDima
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on creating apps/looking how its done
+
 
 
 <!---
